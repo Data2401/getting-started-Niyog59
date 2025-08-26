@@ -1,1 +1,0 @@
-plot(x,y, type = "b", main = "Squared integers")
