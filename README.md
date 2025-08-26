@@ -1,9 +1,16 @@
 # :wave: The Basics of GitHub
+<<<<<<< HEAD
 ## :this is niyog. It's just random nothing else. 
 
 ## :nerd_face: Course overview and learning outcomes
 
 The goal of this course is to give you a brief introduction to GitHub(niyog). We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. :rocket:
+=======
+
+## :nerd_face: Course overview and learning outcomes
+
+The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. :rocket:
+>>>>>>> d8b618540d953619b5879a53d3fe56d663e51aea
 
 ## :octocat: Git and GitHub
 
